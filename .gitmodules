@@ -1,0 +1,12 @@
+[submodule "ImageForge"]
+	path = ImageForge
+	url = https://github.com/ManjotSingh08x/ImageForge.git
+[submodule "HireSense"]
+	path = HireSense
+	url = https://github.com/shrrynsh/BYOP-25-HireSense
+[submodule "Combined_Agriculture"]
+	path = Combined_Agriculture
+	url = https://github.com/Raj-sigma/combined_agriculture_solution
+[submodule "Clickbait_Highlighter"]
+	path = Clickbait_Highlighter
+	url = https://github.com/asutosh29/clickbait-highligter-byop24
